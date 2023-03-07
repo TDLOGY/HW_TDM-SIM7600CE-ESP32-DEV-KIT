@@ -1,4 +1,4 @@
-# This repository will include all data for both TDM-SIM7600CE-ESP32-DEV-KIT and TDM-A7600C-DEV-KIT module
+# This repository will include all data for both TDM-2205 SIM7600CE-ESP32-DEV-KIT and TDM-2202 A7600C-DEV-KIT module
 ---
 __Advertisement  __
 #### Order easy online at:
