@@ -60,6 +60,8 @@ See more our product at  [www.tdmaker.space](https://tdlogy.com/en/makerspace/)
 | U-RX| RX ESP32 UART for programing|
 | PCM ports| SIM PCM ports|
 | I2C| SIM I2C ports|
+| IO16| SIM TX - ESP32 RX PIN internal connection|
+|I017| SIM RX - ESP32 TX PIN internal connection|
 | IO0..IO36| ESP32 Pin Out|
 | 3V3| Internal LDO power supply|
 | EN| Enable pin of ESP32|
