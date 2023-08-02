@@ -54,7 +54,7 @@ See more our product at  [makerspace](https://tdlogy.com/en/makerspace/)
 ## Pin Tables
 | Name| Description |
 | ------ | ----------- |
-| USB-ESP32 | Serial programing for ESP32, can usa as power supply for module with USB-3.1 port (1A max)|
+| USB-ESP32 | Serial programing for ESP32, can use as power supply for module with USB-3.1 port (1A max)|
 | GND| GND power |
 | U-TX| TX ESP32 UART for programing |
 | U-RX| RX ESP32 UART for programing|
@@ -64,6 +64,7 @@ See more our product at  [makerspace](https://tdlogy.com/en/makerspace/)
 |I017| SIM RX - ESP32 TX PIN internal connection|
 | IO0..IO36| ESP32 Pin Out|
 | 3V3| Internal LDO power supply|
+| 5V| USB/External power supply for KIT|
 | EN| Enable pin of ESP32|
 | IO15| Enable pin for Power Up SIM Module, active low|
 
