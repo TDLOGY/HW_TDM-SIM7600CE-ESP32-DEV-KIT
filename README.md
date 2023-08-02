@@ -41,7 +41,7 @@ This repo will provide you all data for these module!
 
 [DOWNLOAD HERE](https://github.com/TDLOGY/ATCommand_Test)
 
-See more our product at  [www.tdmaker.space](https://tdlogy.com/en/makerspace/)
+See more our product at  [makerspace](https://tdlogy.com/en/makerspace/)
 ---
 ## Example code with ESP32:
 
@@ -65,6 +65,7 @@ See more our product at  [www.tdmaker.space](https://tdlogy.com/en/makerspace/)
 | IO0..IO36| ESP32 Pin Out|
 | 3V3| Internal LDO power supply|
 | EN| Enable pin of ESP32|
+| IO15| Enable pin for Power Up SIM Module, active low|
 
 - ### Pin  Out Diagram
 
