@@ -68,9 +68,9 @@ See more our product at  [www.tdmaker.space](https://tdlogy.com/en/makerspace/)
 
 - ### Pin  Out Diagram
 
-![Pinout](https://github.com/TDLOGY/TDM-SIM7600CE-ESP32-DEV-KIT/blob/main/SIM7600CE-ESP32-DEV-KIT-PINOUT.PNG)
+![Pinout](https://github.com/TDLOGY/HW_TDM-SIM7600CE-ESP32-DEV-KIT/blob/main/PINOUT_ESP32_SIM7600X-DEVKIT.JPG)
 
 - ### Module Dimension
 
-![Dimension](https://github.com/TDLOGY/TDM-SIM7600CE-ESP32-DEV-KIT/blob/main/SIM7600CE-ESP32-DEV-KIT-Dimension.PNG)
+![Dimension](https://github.com/TDLOGY/HW_TDM-SIM7600CE-ESP32-DEV-KIT/blob/main/Dimension_ESP32_SIM7600X-DEVKIT.JPG)
 
